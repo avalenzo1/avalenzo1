@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avalenzo1!
-- 👀 I’m interested in Wed Development, Game Creation
+- 👀 I’m interested in Web Development, Game Creation
 - 🌱 I’m currently learning Web Development (NodeJS + ExpressJS, Static Web Development), Python
 - 💞️ I’m looking to collaborate with others to create cool projects
 - 📫 How to reach me: <avalenzo@cps.edu>
