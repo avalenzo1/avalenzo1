@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @avalenzo1!
 - 👀 I’m interested in Web Development, Game Creation
-- 🌱 I’m currently learning Web Development (NodeJS + ExpressJS, Static Web Development), Python
+- 🌱 I’m currently learning Nuxt3 + Amplify AWS, Python
 - 👨🏽‍💼 I’m looking to collaborate with others to create cool projects
-- 📫 How to reach me: <avalenzo@cps.edu> | <anthonyvalenzo4@gmail.com>
+- 📫 How to reach me: <avale34@uic.edu> | <anthonyvalenzo4@gmail.com>
 
 <!---
 avalenzo1/avalenzo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
