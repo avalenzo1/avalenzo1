@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avalenzo1!
+- 👋 Hi, I’m Anthony!
 - 👀 I’m interested in Web Development, Game Creation
 - 🌱 I’m currently learning Nuxt3 + Amplify AWS, Python
 - 👨🏽‍💼 I’m looking to collaborate with others to create cool projects
