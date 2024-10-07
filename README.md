@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Nuxt3 + Amplify AWS, Python
 - 👨🏽‍💼 I’m looking to collaborate with others to create cool projects
 - 📫 How to reach me: <avale34@uic.edu> | <anthonyvalenzo4@gmail.com>
+- Check out my portfolio: https://avalenzo1.github.io/
 
 <!---
 avalenzo1/avalenzo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
