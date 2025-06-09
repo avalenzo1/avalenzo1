@@ -7,4 +7,4 @@ I was born and raised in Chicago, and the first tech device I owned was a blue D
 - Follow my socials: <a href="https://www.linkedin.com/in/avalenzo/"><img src="assets/icons/linkedin.png" alt="LinkedIn" width="24"></a>
 
 <img src="assets/IMG_0614.jpeg" alt="This is a picture of my black cat called Dracula." width="200">
-<span>This is a picture of my black cat called Dracula.</span>
+<span>This is a picture of my black cat called Dracula, but we just call him gato.</span>
