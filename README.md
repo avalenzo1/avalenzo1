@@ -1,5 +1,5 @@
-<img src="assets/IMG_0614.jpeg" alt="This is a picture of my black cat called Dracula." width="200" align="right">
-<span>This is a picture of my black cat called Dracula.</span>
+<div  align="right"> <img src="assets/IMG_0614.jpeg" alt="This is a picture of my black cat called Dracula." width="200">
+<span>This is a picture of my black cat called Dracula.</span></div>
 
 <p>
   Hi, I'm Anthony! I'm a rising junior at UIC studying for my bachelor's in Computer Science.
